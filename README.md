@@ -206,3 +206,4 @@ Feel free to reach out or open an issue.
 1. Create an endpoint for getting a user's historical location points for the day, which could be plotted as a visual map
 2. Authentication and permissions for who can assign and unassign devices and view sensitive data
 3. Detect and provide a list of inactive devices
+4. Preventing Location Spam: To prevent location spam, I would enforce a minimum time interval between accepted pings for each device—for example, ignoring any pings sent less than 30 seconds apart.
