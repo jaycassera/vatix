@@ -204,4 +204,5 @@ Feel free to reach out or open an issue.
 ## ⏰ If I had more time I would...
 
 1. Create an endpoint for getting a user's historical location points for the day, which could be plotted as a visual map
-2. 
+2. Authentication and permissions for who can assign and unassign devices and view sensitive data
+3. Detect and provide a list of inactive devices
